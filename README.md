@@ -25,8 +25,8 @@ A psychedelic visual effects generator designed to explore the boundaries of hum
 
 ```bash
 # Clone the repository
-git clone https://github.com/geeknik/human-fuzzer.git
-cd human-fuzzer
+git clone https://github.com/geeknik/brain-fuzzer.git
+cd brain-fuzzer
 
 # Create virtual environment (recommended)
 python3 -m venv venv
